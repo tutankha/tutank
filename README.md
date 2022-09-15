@@ -2,8 +2,7 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey!;Im+Yasir+and+its+my+Github+profile..)](https://git.io/typing-svg)
 
-- Flutter Developer
-- UI / UX
+Flutter / UI / UX
 
 <h3>Working with..</h3>
 
