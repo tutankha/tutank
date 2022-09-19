@@ -1,7 +1,5 @@
 <img style="width:100%;" id="image" src="https://media.giphy.com/media/zCSR2v3WV1CNB4OIQj/giphy.gif">
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hey!;Im+Yasir+and+its+my+Github+profile..)](https://git.io/typing-svg)
-
 Flutter / UI / UX
 
 <h3>Working with..</h3>
